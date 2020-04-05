@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Azure DevOps Testing - First Check In</h1>
-        <p class="lead">This is the first check in.</p>
+        <h1>Azure DevOps Testing - Second Check In</h1>
+        <p class="lead">This is the second check in.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
@@ -19,7 +19,7 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Second</h2>
+            <h2><b>Second</b></h2>
             <p>
                 This is the Second set
             </p>
